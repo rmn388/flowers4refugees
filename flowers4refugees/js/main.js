@@ -25,7 +25,7 @@ app.controller('picController', ['$scope', 'Instagram',
 	function($scope, Instagram) {
     $scope.hashtag='Flowers'
 
-		Instagram.get($scope.hashtag,20,'/media/recent').success(function(response) {
+		Instagram.get($scope.hashtag,'30','/media/recent').success(function(response) {
 
       $scope.data = response.data
       console.log(response)
