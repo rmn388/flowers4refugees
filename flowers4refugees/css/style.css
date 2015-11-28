@@ -2,3 +2,6 @@ div.pic{
   display:block;
   float:left;
 }
+.columns{
+  padding:0;
+}
