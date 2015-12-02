@@ -9,7 +9,7 @@
       <h1 ng-cloak>#{{hashtag}}</h1>
       <h2 ng-cloak>{{count | number}} photos</h2>
       <div class="row">
-        <div class="small-2 medium-3 large-3 columns" ng-repeat="pic in data" ng-cloak>
+        <div class="small-4 medium-3 large-3 columns" ng-repeat="pic in data" ng-cloak>
             <a ng-href="{{pic.link}}">
                 <img  ng-src="{{ pic.images.low_resolution.url }}" src="" alt="">
             </a>
