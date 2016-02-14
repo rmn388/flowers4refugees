@@ -6,36 +6,37 @@ gems:
 # Site settings
 title: "Rich Nelson"
 description: > # this means to ignore newlines until "email:"
-   Professional and personal projects
+   A log of professional and personal projects
 
 email: rich@nelsonlongboards.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo.jpg"
+
 # blog cover
 #cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Rich Nelson'
 author: 'Rich Nelson'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/rich_nelson_headshot_bw.jpg"
 
-paginate:	5
+paginate:	10
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://RichNelson.ME" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+#twitter_handle: ''
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  # - icon:	twitter
+  #   url:	https://twitter.com/dirkfabisch
+  #   desc: Follow me on twitter
+  #   share_url: http://twitter.com/share
+  #   share_title: ?text=
+  #   share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -44,12 +45,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	github
+  #   url:	https://github.com/dirkfabisch
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
@@ -57,3 +58,5 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+markdown: redcarpet
