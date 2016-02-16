@@ -73,17 +73,19 @@ layout: default
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article" style="border: 1px solid #ccc; padding:5px; margin: 5px 0;">
           <div class="article-item">
             {% if post.image-thumb %}
-              <div class="post-content">
-                <img src="{{ post.image-thumb}}">
-              </div>
-              <br>
+              <a href="{{ post.url }}" itemprop="url">
+                <div class="post-content">
+                  <img src="{{ post.image-thumb}}">
+                </div>
+                <br>
+              </a>
             {% endif %}
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
               {% if post.excerpt %}
-                <p>{{ post.excerpt }}</p>
+                <p>{{ post.excerpt }} <a href="{{ post.url }}" itemprop="url"> read more</a></p>
               {% else %}
                 <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
               {% endif %}

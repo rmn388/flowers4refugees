@@ -7,7 +7,7 @@ tags:  mechanical electrical programming
 image: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
 image2: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
 image-thumb: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
-excerpt: Made from parts I had around the house, measures hues on backlit screens with 97% accuracy.
+excerpt: Made from parts I had around the house, measures hues on LCD screens with 97% accuracy.
 ---
 Last Friday I took apart my old Spyder2 monitor colorimeter to see how it works.  Apparently it uses 7 colored filters with a light sensor behind each one,  by comparing the amount of light absorbed by each filter it can determine the color on screen.  I was fascinated by how it worked so I decided to take a shot at making my own.
 
