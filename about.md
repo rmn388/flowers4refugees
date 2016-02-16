@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+As long as I can remember I've always loved taking things apart to figure out how they worked.  When I was 12 I rode my bike into a parked car because I was staring down to watch the chain shift gears. As I got older this fascination evolved into figuring out how to improve upon designs and create new things, naturally I got my BSME to turn my passion into a career.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+During college I started designing and building longboards. After graduating into a poor economy and job market in 2010 I focusing on growing Nelson Longboards, **within an year and a half we were one of the top 10 longboard companies worldwide** due to my innovative and ergonomic designs, and went on to sell boards to customers in over 40 countries and in retail shops around the world.  Over the years I have gained a lot of experience in designing, automating and scaling manufacturing processes. **This led to an increase in our our output from 4 to 100 boards per week with minimal additional labor.** I have been responsible for continuous prototyping and product development, including multiple innovations that became standard in the industry. These are just a few of areas that I gained experience from, being self employed running a business required me to be very disciplined and led me to grow both personally and professionally.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Though the business kept me busy I still kept things fresh with side projects (some of which are documented here) where I continue to learn and explore different areas of interest including electronics and programming.

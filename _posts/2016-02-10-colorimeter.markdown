@@ -6,6 +6,8 @@ categories: side-project
 tags:  mechanical electrical programming
 image: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
 image2: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
+image-thumb: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
+excerpt: Made from parts I had around the house, measures hues on backlit screens with 97% accuracy.
 ---
 Last Friday I took apart my old Spyder2 monitor colorimeter to see how it works.  Apparently it uses 7 colored filters with a light sensor behind each one,  by comparing the amount of light absorbed by each filter it can determine the color on screen.  I was fascinated by how it worked so I decided to take a shot at making my own.
 
@@ -40,7 +42,7 @@ After assembling the sensor and the next step was to collect test data for calib
 With a database of calibration measurements, we now have a set of known values to compare new measurements too.  
 
 ##Finishing Touches
-Aftr setting a Raspberry Pi as the brains the last step was to create an interface and assemble all of the components into the case, for the "button" to take a measurement I mounted the sensor on springs so a small amount of pressure on the front complete a circuit and trigger the measurement.  An LCD screen displays the RGB and hex values of the measured color, and an RGB led recreates the color.
+The last step was to create an interface and assemble all of the components into the case, for the "start button" I mounted the sensor on springs, with another spring and screw arranged so that a small amount of pressure on the front will make them touch and complete a circuit to trigger the measurement function.  An LCD screen displays the RGB and hex values of the measured color, and an RGB led lights up in the measured color.  After testing across 3 different screens that colorimeter is over 97% accurate.
 
 ![Everything all snug in the case.](/assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg)
 
