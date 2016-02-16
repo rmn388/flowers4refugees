@@ -2,8 +2,8 @@
 layout: post
 title:  "Handheld Wireless Colorimeter"
 date:   2016-02-10 14:34:25
-categories: side_project mechanical electrical programming
-tags:
+categories: side-project
+tags:  mechanical electrical programming
 image: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
 image2: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
 ---
