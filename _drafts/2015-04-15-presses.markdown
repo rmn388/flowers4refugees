@@ -5,8 +5,8 @@ date:   2014-04-15 14:34:25
 categories: professional-project
 tags:  mechanical manufacturing
 
-image: assets/article_images/2015-04-15-presses/press-banner.jpg
-image2: assets/article_images/2015-04-15-presses/press-banner.jpg
-image-thumb: assets/article_images/2015-04-15-presses/press-banner.jpg
+image: /assets/article_images/2015-04-15-presses/press-banner.jpg
+image2: /assets/article_images/2015-04-15-presses/press-banner.jpg
+image-thumb: /assets/article_images/2015-04-15-presses/press-banner.jpg
 excerpt: Hydraulic Presses with welded alignment system for accurate repeatable board lamination.
 ---

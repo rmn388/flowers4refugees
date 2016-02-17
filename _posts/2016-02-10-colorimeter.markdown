@@ -11,7 +11,8 @@ excerpt: Made from parts I had around the house, measures hues on LCD screens wi
 ---
 Last Friday I took apart my old Spyder2 monitor colorimeter to see how it works.  Apparently it uses 7 colored filters with a light sensor behind each one,  by comparing the amount of light absorbed by each filter it can determine the color on screen.  I was fascinated by how it worked so I decided to take a shot at making my own.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/laYNx_acj_0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+*Here's a peak at the finished product*
 
 ##Constraints:
 - Only use components from around the house
