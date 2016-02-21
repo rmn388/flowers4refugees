@@ -15,6 +15,7 @@ excerpt: This project was a Christmas present for my wife,  so she could send ou
 *Video of the device in action*
 
 ##How It Works
+
 - This project uses a phone number from Twilio. When a text message is received it triggers a webhook HTTP post to a python flask server that's running on a Raspberry Pi.
 - The server checks the content of the message, if there are no specific commands it wiggles the servo motor a few times to make some noise and get the dogs attention.
 - At this point the Camera takes a picture and starts uploading it to Dropbox, which the servo drives a piston to dispense a treat.
@@ -22,13 +23,13 @@ excerpt: This project was a Christmas present for my wife,  so she could send ou
 
 ![Everything laid out in SolidWorks](/assets/article_images/2015-12-25-treat-dispenser/complete-Box.gif)
 
-![Feild of view test, for when Gus is in his crate](/assets/article_images/2015-12-25-treat-dispenser/crate-setup.jpg)
+![Field of view test, for when Gus is in his crate](/assets/article_images/2015-12-25-treat-dispenser/crate-setup.jpg)
 
 ![Treat dispenser in action](/assets/article_images/2015-12-25-treat-dispenser/dispenser-loop.gif)
 
 ![CNC machining the treat dispenser assembly out of Acetal Delrin](/assets/article_images/2015-12-25-treat-dispenser/delrin-magazine-machining.jpg)
 
-![Test box machining out of wood, the final product is white Delrin](/assets/article_images/2015-12-25-treat-dispenser/wooden-box-machining.jpg)
+![A prototype box was machined out of wood, the final product is white Delrin](/assets/article_images/2015-12-25-treat-dispenser/wooden-box-machining.jpg)
 
 ![All of the parts laid out](/assets/article_images/2015-12-25-treat-dispenser/parts-laid-out.jpg)
 
