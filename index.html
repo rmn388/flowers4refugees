@@ -41,10 +41,11 @@ layout: default
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             {% if post.image-thumb %}
-              <div class="post-content">
-                <img src="{{ post.image-thumb}}">
-              </div>
-              <br>
+              <a href="{{ post.url }}" itemprop="url">
+                <div class="post-content">
+                  <img class="post-image" src="{{ post.image-thumb}}">
+                </div>
+              </a>
             {% endif %}
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
@@ -75,9 +76,8 @@ layout: default
             {% if post.image-thumb %}
               <a href="{{ post.url }}" itemprop="url">
                 <div class="post-content">
-                  <img src="{{ post.image-thumb}}">
+                  <img class="post-image" src="{{ post.image-thumb}}">
                 </div>
-                <br>
               </a>
             {% endif %}
             <header class="post-header">

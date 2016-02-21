@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "24 Ton Longboard Presses"
+date:   2014-04-15 14:34:25
+categories: professional-project
+tags:  mechanical manufacturing
+
+image: /assets/article_images/2015-04-15-presses/press-banner.jpg
+image2: /assets/article_images/2015-04-15-presses/press-banner.jpg
+image-thumb: /assets/article_images/2015-04-15-presses/press-banner.jpg
+excerpt: Hydraulic Presses with welded alignment system for accurate repeatable board lamination.
+---
+
+These presses were designed around harbor freight hydraulic shop presses.  After putting together a bill of materials to make presses from scratch it was apparent that the hydraulic shop presses were cheaper than the raw materials for a custom solution.  
+
+With a little modification the harbor freight presses fulfill most of the requirements for pressing boards, the one glaring weakness is their inconsistent alignment,  there was at least 1/4" of play between the top and bottom sections.
+
+![SolidWorks model of a complete presses and alignment system](/assets/article_images/2015-04-15-presses/press-cad.jpg)
+
+To solve this problem I designed a welded alignment system using telescoping square steel tubing and Acetal Delrin to reduce friction.  The result was robust system with repeatable pressing to within 1/32".  Four of our seven presses were retrofitted with his system. The other three presses used an earlier version of the alignment system and were used for boards that allowed for slightly larger tolerances.
+
+![The completed presses after about a year of use](/assets/article_images/2015-04-15-presses/press1.jpg)
+
+![](/assets/article_images/2015-04-15-presses/press2.jpg)
