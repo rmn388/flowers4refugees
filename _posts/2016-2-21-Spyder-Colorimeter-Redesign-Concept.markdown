@@ -29,7 +29,7 @@ I decided to move forward with these two concepts.
 
 ![RGB Vendiagram](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/5-vendiagram-concept.jpg)
 
-After doing the rough pock ups in SolidWorks I preferred the look of the aperture design. So, I completed a more detailed model before working towards a physical prototype.
+After doing the rough mock ups in SolidWorks I preferred the look of the aperture design. So, I completed a more detailed model before working towards a physical prototype.
 
 ![A more fleshed out mock up of the design](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/6-fleshed-hex-concept.jpg)
 ![split into an enclosure to fit the hardware from my Spyder2](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/7-case-model.jpg)
