@@ -14,7 +14,8 @@ excerpt: This project was a Christmas present for my wife,  so she could send ou
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pjhy6DhXII?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 *Video of the device in action*
 
-##How It Works
+
+## How It Works
 
 - This project uses a phone number from Twilio. When a text message is received it triggers a webhook HTTP post to a python flask server that's running on a Raspberry Pi.
 - The server checks the content of the message, if there are no specific commands it wiggles the servo motor a few times to make some noise and get the dogs attention.
