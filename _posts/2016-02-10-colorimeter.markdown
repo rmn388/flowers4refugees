@@ -9,7 +9,7 @@ image2: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
 image-thumb: /assets/article_images/2016-02-10-colorimeter/colorimeter-innards.jpg
 excerpt: Made from parts I had around the house, measures hues on LCD screens with 97% accuracy.
 ---
-Last Friday I took apart my old Spyder2 monitor colorimeter to see how it works.  Apparently it uses 7 colored filters with a light sensor behind each one,  by comparing the amount of light absorbed by each filter it can determine the color on screen.  I was fascinated by how it worked so I decided to take a shot at making my own.
+Last Friday I took apart my old Spyder2 monitor colorimeter to see how it worked.  Apparently it uses 7 colored filters with a light sensor behind each one,  by comparing the amount of light absorbed by each filter it can determine the color on screen.  I was fascinated by how it worked so I decided to take a shot at making my own.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/laYNx_acj_0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 *Here's a peak at the finished product*
@@ -20,15 +20,15 @@ Last Friday I took apart my old Spyder2 monitor colorimeter to see how it works.
 - Ideally small enough to be hand held
 
 ##The Sensor
-First I tackled the most import part, the sensor. I had some color gels used for camera lighting, I chose to use red, green, and blue (the additive primary colors) for even coverage of the color spectrum.
+First I tackled the most import part, the sensor. I had some color gels used for camera lighting, I chose to use red, green, and blue (the additive primary colors) for even coverage across the color spectrum.
 
 ![Red, Green, and Blue Filters](/assets/article_images/2016-02-10-colorimeter/color-filters.jpg)
 
-Unfortunately I only had one photo resistor so a servo was used to take measurements through each filter.
+Unfortunately I only had one photo resistor so I used a servo to take measurements through each filter.
 
 ![Color plate, with the filters spaced 45º apart](/assets/article_images/2016-02-10-colorimeter/color-plate.jpg)
 
-![Sensor Asembly](/assets/article_images/2016-02-10-colorimeter/colorimeter-sensor-explosion.jpg)
+![Sensor Assembly](/assets/article_images/2016-02-10-colorimeter/colorimeter-sensor-explosion.jpg)
 
 ![Sensor Motion Simulation](/assets/article_images/2016-02-10-colorimeter/Sensor-Motion-Simulation.gif)
 
@@ -51,4 +51,4 @@ The last step was to create an interface and assemble all of the components into
 
 ![The Business End](/assets/article_images/2016-02-10-colorimeter/business-end.jpg)
 
-![After measureing the color on a phone screen](/assets/article_images/2016-02-10-colorimeter/measure-phone-color.jpg)
+![After measuring the color on a phone screen](/assets/article_images/2016-02-10-colorimeter/measure-phone-color.jpg)
