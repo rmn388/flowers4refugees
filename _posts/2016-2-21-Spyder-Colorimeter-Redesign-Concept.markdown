@@ -10,12 +10,12 @@ image-thumb: /assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concep
 excerpt: From idea to 3d-printed prototype
 ---
 
-I set out to design a new enclosure for the Datacolor Spyder Colorimeter.  The first step was to research past designs, to see how they have changed over time.
+I set out to design a new enclosure for the Datacolor Spyder Colorimeter.  The first step was to research past designs, to see how they've changed over time.
 
 ![Spyders 1 through 5](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/1-design-history.jpg)
 
-The goal was to create a design that is familiar and consistent with the look of previous models, but also continues the evolution and has it's own distinct look.
- There are some common design themes that stick out, all of the designs are based around some sort of triangle often with radial symmetry.  The most current design has moved toward a more compact, rugged design with less curvy surfaces.
+My goal was to create a design that was familiar and consistent with the look of previous models, but also brought something new to the table.
+ Looking at the past designs there are some common themes that stick out such as the triangular nature and radial symmetry present in most of the designs.  The most current design has moved toward a more compact, rugged design with less curvy surfaces.
 
 ![Inspiration Board](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/2-insiration-board.jpg)
 
@@ -29,7 +29,7 @@ I decided to move forward with these two concepts.
 
 ![RGB Vendiagram](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/5-vendiagram-concept.jpg)
 
-After mock-ups in Solidworks I choose to move forward with the aperture design.
+After doing the rough pock ups in SolidWorks I preferred the look of the aperture design. So, I completed a more detailed model before working towards a physical prototype.
 
 ![A more fleshed out mock up of the design](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/6-fleshed-hex-concept.jpg)
 ![split into an enclosure to fit the hardware from my Spyder2](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/7-case-model.jpg)
