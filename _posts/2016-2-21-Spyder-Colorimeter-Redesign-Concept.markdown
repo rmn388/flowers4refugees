@@ -15,7 +15,7 @@ I set out to design a new enclosure for the Datacolor Spyder Colorimeter.  The f
 ![Spyders 1 through 5](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/1-design-history.jpg)
 
 My goal was to create a design that was familiar and consistent with the look of previous models, but also brought something new to the table.
- Looking at the past designs there are some common themes that stick out such as the triangular nature and radial symmetry present in most of the designs.  The most current design has moved toward a more compact, rugged design with less curvy surfaces.
+ Looking at the past designs there are some common themes that stick out such as the triangular nature and radial symmetry present in most of the designs.  The most current design has moved toward a more compact, rugged design.
 
 ![Inspiration Board](/assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/2-insiration-board.jpg)
 
