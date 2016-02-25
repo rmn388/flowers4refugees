@@ -36,4 +36,4 @@ excerpt: This project was a Christmas present for my wife,  so she could send ou
 
 ![The completed device](/assets/article_images/2015-12-25-treat-dispenser/treat-dispenser.jpg)
 
-It has been working great, currently Gus stays in his crate during the day while we potty train him.  To the left of the camera there is a motion detector that is hooked up, but not on. When Gus gets free range of the house during the day the motion sensor will be used to make sure that he's in front of the camera before taking a photo.
+It has been working great. To the left of the camera there is a motion detector that is hooked up, but with no software running for it. While we're house training Gus he stays in his crate during the day, but when gets free range of the house during the day the motion sensor will be used to make sure that he's in front of the camera before it takes a photo.
