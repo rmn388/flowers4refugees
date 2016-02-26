@@ -17,9 +17,9 @@ excerpt: This project was a Christmas present for my wife,  so she could send ou
 
 ## How It Works
 
-- This project uses a phone number from Twilio. When a text message is received it triggers a webhook HTTP post to a python flask server that's running on a Raspberry Pi.
+- This project uses a phone number from Twilio. When a text message is received it triggers a webhook HTTP post to a python flask server that's running on a Raspberry Pi that's inside the treat dispenser.
 - The server checks the content of the message, if there are no specific commands it wiggles the servo motor a few times to make some noise and get the dogs attention.
-- At this point the Camera takes a picture and starts uploading it to Dropbox, while the servo drives a piston to dispense a treat.
+- At this point the Camera takes a picture and starts uploading it to Dropbox, while the servo moves a piston to dispense a treat.
 - After the Dropbox photo url is received, the picture is text messaged to the sender through the Twilio API.
 
 ![Everything laid out in SolidWorks](/assets/article_images/2015-12-25-treat-dispenser/complete-Box.gif)
