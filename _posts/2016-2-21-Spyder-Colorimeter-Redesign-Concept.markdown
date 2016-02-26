@@ -4,9 +4,9 @@ title:  "Spyder Colorimeter Design Concept"
 date:   2016-02-21 20:00:00
 categories: side-project
 tags:  mechanical design 3d-printing
-image: /assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/14-comparison.jpg
-image2: /assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/14-comparison.jpg
-image-thumb: /assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/14-comparison.jpg
+image: /assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/6-fleshed-hex-concept.jpg
+image2: /assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/6-fleshed-hex-concept.jpg
+image-thumb: /assets/article_images/2016-2-21-Spyder-Colorimeter-Redesign-Concept/6-fleshed-hex-concept.jpg
 excerpt: From idea to 3d-printed prototype
 ---
 
