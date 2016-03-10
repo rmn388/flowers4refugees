@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Spyder Concept Analysis and Revision"
+title:  "Spyder Concept Analysis and Improvement"
 date:   2016-02-21 20:00:00
 categories: side-project
 tags:  mechanical design 3d-printing injection-molding
-image: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/hex-temp-after-cooling.jpg
-image2: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/hex-temp-after-cooling.jpg
-image-thumb: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/hex-temp-after-cooling.jpg
+image: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/banned-fill-time-side-by-side.jpg
+image2: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/banned-fill-time-side-by-side.jpg
+image-thumb: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/banned-fill-time-side-by-side.jpg
 excerpt: Injection molding simulation used to improve the design for the second prototype.
 ---
 
