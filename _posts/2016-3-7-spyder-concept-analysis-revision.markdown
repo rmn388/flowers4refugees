@@ -7,7 +7,7 @@ tags:  mechanical design 3d-printing injection-molding
 image: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/banned-fill-time-side-by-side.jpg
 image2: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/banned-fill-time-side-by-side.jpg
 image-thumb: /assets/article_images/2016-3-7-spyder-concept-analysis-revision/banned-fill-time-side-by-side.jpg
-excerpt: Injection molding simulation used to improve the design for the second prototype.
+excerpt: Using Solidworks Plastics to simulate and improve upon injection molded designs.
 ---
 
 
