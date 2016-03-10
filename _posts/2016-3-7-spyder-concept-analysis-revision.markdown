@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spyder Concept Analysis and Improvement"
+title:  "Spyder Colorimeter Design Concept, Part 2: Analysis and Improvement"
 date:   2016-02-21 20:00:00
 categories: side-project
 tags:  mechanical design 3d-printing injection-molding
