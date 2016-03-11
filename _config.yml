@@ -19,7 +19,7 @@ name: 'Rich Nelson'
 author: 'Rich Nelson'
 author_image: "/assets/images/rich_nelson_headshot_bw.jpg"
 
-paginate:	10
+paginate:	1000
 
 url: "http://RichNelson.ME" #"localhost:4000" # the base hostname & protocol for your site
 baseurl: ""
