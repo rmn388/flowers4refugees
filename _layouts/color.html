@@ -65,7 +65,8 @@
               </div>
 
 
-                <button class="random-button" ng-click="randomColor()"><h4>Random Hue</h4></button>
+                <button class="random-button" ng-click="randomHue()"><h4>Random Hue</h4></button>
+                <button class="random-button" ng-click="randomColor()"><h4>Random Color</h4></button>
 
               <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
               <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -152,7 +153,7 @@
 
 
 
-              $scope.randomColor = function() {
+              $scope.randomHue = function() {
                 randomNums = [0,255, Math.floor(Math.random() * 255)]
                 shuffle(randomNums)
                 $scope.red = randomNums[0]
@@ -162,20 +163,30 @@
                 $scope.invRed = Math.abs($scope.red-255)
                 $scope.invGreen =  Math.abs($scope.green-255)
                 $scope.invBlue =  Math.abs($scope.blue-255)
+                }
 
+                $scope.randomColor = function() {
 
-              }
-            $scope.randomColor()
+                  $scope.red = Math.floor(Math.random() * 255)
+                  $scope.green =  Math.floor(Math.random() * 255)
+                  $scope.blue = Math.floor(Math.random() * 255)
+
+                  $scope.invRed = Math.abs($scope.red-255)
+                  $scope.invGreen =  Math.abs($scope.green-255)
+                  $scope.invBlue =  Math.abs($scope.blue-255)
+                  }
+
+            $scope.randomHue()
 
               //Called on change of inputs
-              $scope.colorChange = function() {
-
-
-
-              };
-
-              //initialize canvas and radius
-              $scope.colorChange()
+              // $scope.colorChange = function() {
+              //
+              //
+              //
+              // };
+              //
+              // //initialize canvas and radius
+              // $scope.colorChange()
 
             });
 
