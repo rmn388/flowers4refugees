@@ -12,4 +12,4 @@ excerpt: A video of the manufacturing process at Nelson Longboards.
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rVI3N4UfDI0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KsjzIkwRlB0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
