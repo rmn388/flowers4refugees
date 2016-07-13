@@ -4,18 +4,31 @@ title:  "Parametric 3D-Printed Phone Mounting System"
 date:   2016-07-08 22:00:00
 categories: side-project
 tags:  mechanical 3d-printing design
-image: /assets/article_images/2016-07-08-parametric-3d-printed-phone-mounting-system/colorimeter-innards.jpg
-image2: /assets/article_images/2016-07-08-parametric-3d-printed-phone-mounting-system/colorimeter-innards.jpg
-image-thumb: /assets/article_images/2016-07-08-parametric-3d-printed-phone-mounting-system/colorimeter-innards.jpg
+image: /assets/article_images/2016-07-08-parametric-3d-printed-phone-mounting-system/mount-in-car.jpg
+image2: /assets/article_images/2016-07-08-parametric-3d-printed-phone-mounting-system/mount-in-car.jpg
+image-thumb: /assets/article_images/2016-07-08-parametric-3d-printed-phone-mounting-system/mount-in-car.jpg
 excerpt: Made from parts I had around the house, measures hues on LCD screens with 97% accuracy.
 ---
-3D-printing is becoming cheaper and more accessible every year, and with a growing community there is an ever expanding library of decorative and functional printable models available for download. But there is still a steep learning curve and a considerable amount of time involved with designing custom parts.
+3D-printing is becoming cheaper and more accessible every year, with the community growing quickly there is an ever expanding library of printable models available for download. But when it comes to designing custom parts there is still a steep learning curve and a considerable amount of time required.
 
-Disney Research published a paper called [AutoConnect: Computational Design of 3D-Printable Connectors](https://www.disneyresearch.com/publication/autoconnect/), which involved writing software to automate the process creating models to connect objects like a mug to the edge of a table or a controller to the arm of a chair.  The software takes an input of two models, allows you to orient them relative to each other, then generates a part to connect them.  The results are impressive but unfortunately the software has not been made available.
+Disney Research published a paper called [AutoConnect: Computational Design of 3D-Printable Connectors](https://www.disneyresearch.com/publication/autoconnect/), which is about software that automates the process creating models to connect objects together.
 
-I thought the cellphone car mount was the most useful application so I set out to create a parameterized model to generate custom mounts based on the measured dimensions of a phone and mounting edge.
+![Disney Autoconnet Examples](/assets/article_images/2016-07-08-parametric-3d-printed-phone-mounting-system/disney-research-autoconnectors-stacked.jpg)
 
-I came across a video and paper published by Disney Research called . With the software they developed, they can input two virtual models of physical objects, position them relative to each other and the program generates a 3d-printable connector to attached the two object to each other.
+The software takes an input of two models, allows you to orient them relative to each other, then generates a part to connect them.  **The results are impressive but unfortunately the software has not been made available.**
+
+Out of the handful of examples that they showed I thought the cellphone car mount was the most useful and something that most people would have a use for. So, I decided to create a parameterized model to generate custom mounts based on the measured dimensions of a phone and mounting edge.
+
+
+
+
+<br><br><br><br><br><br>
+
+
+
+
+
+
 
 
 
