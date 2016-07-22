@@ -7,10 +7,10 @@ tags:  3d-printing design
 image: /assets/article_images/2016-07-12-raspberry-pi-case/raspberry-pi-case-main.jpg
 image2: /assets/article_images/2016-07-12-raspberry-pi-case/raspberry-pi-case-main.jpg
 image-thumb: /assets/article_images/2016-07-12-raspberry-pi-case/raspberry-pi-case-main.jpg
-excerpt: Finally covered by bare Raspberry Pi.
+excerpt: Designed in SolidWorks then 3-D printed.
 ---
 
-I use one of my Raspberry Pis to runs the [@_StormWatch](https://twitter.com/_StormWatch) twitter bot as well as some other automated tasks.  For a few months it's been sitting on my desk bare, running 24/7 and it was long overdue for a case.  I took a look at the available cases and nothing jumped out at me so I designed my own.
+I use one of my Raspberry Pis to runs the [@_StormWatch](https://twitter.com/_StormWatch) twitter bot as well as some other automated tasks.  For a few months it's been sitting on my desk bare so it was long overdue for a case.  I took a look at the available cases and nothing jumped out at me so I designed my own.
 
 ![Basic Geometry](/assets/article_images/2016-07-12-raspberry-pi-case/basic-shape.JPG)
 
@@ -27,3 +27,5 @@ The model of the Raspberry Pi 2 B is from [GrabCad.com](https://grabcad.com/libr
 Luckily I had a nice combination of filament colors on hand. The top is white Inland PLA from my local (1hr away) MicroCenter, and the bottom half is the Clay Red 5 Dollar Filament from [ProtoParadigm.com](http://www.protoparadigm.com/5-filament/clay-red-adv-ingeo-pla-1-75mm/). They have a great choice of colors, and the price makes it easy to grab a variety without having to buy full 1kg spools.
 
 ![](/assets/article_images/2016-07-12-raspberry-pi-case/raspberry-pi-case-main.jpg)
+
+I'm super happy with how it came out.  
