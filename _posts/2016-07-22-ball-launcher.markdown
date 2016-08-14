@@ -6,7 +6,7 @@ categories: side-project
 tags:  3d-printing design
 image: /assets/article_images/2016-07-22-ball-launcher/ball-launcher-front-angle.jpg
 image2: /assets/article_images/2016-07-22-ball-launcher/ball-launcher-front-angle.jpg
-image-thumb: /assets/article_images/2016-07-22-ball-launcher/ball-launcher-front-angle.jpg
+image-thumb: /assets/article_images/2016-07-22-ball-launcher/ball-launcher-front-angle_thumb.jpg
 excerpt: The first part of an automatic fetch machine project.
 ---
 
@@ -22,7 +22,7 @@ My dog Gus has a ton of energy, and while we love playing with him he can be a h
 * Frame and idlers were 3-D Printed.
 * A few bolts and screw posts from a hardware store.
 
-![Wheel Positioning](/assets/article_images/2016-07-22-ball-launcher/wheels.jpg)
+![Wheel Positioning](/assets/article_images/2016-07-22-ball-launcher/wheels.JPG)
 
 The launcher should look familiar if you know what a pinching machine looks like. I started with the gap between the wheels, I knew I wanted it slightly smaller than the ball diameter so it will squish between them when launching, I made the gap adjustable by 20mm so that that the prototype could be fine tuned.
 
