@@ -40,4 +40,4 @@ The bed of my 3-D printer is 8"x8" so the frame had to be made in a few parts, f
 
 ![Belt Path](/assets/article_images/2016-07-22-ball-launcher/ball-launcher-front-angle.jpg)
 
-Everything came out great! As you saw in the gif at the top Gus already loves it.  Next I'll start working on an enclosure anding some sensors to automate the operation.
+Everything came out great! As you saw in the gif at the top Gus already loves it.  Next I'll start working on an enclosure and some sensors to automate the operation.
